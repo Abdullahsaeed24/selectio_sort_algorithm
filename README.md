@@ -1,1 +1,1 @@
-# selectio_sort_algorithm
+# selection_sorting_algorithm
